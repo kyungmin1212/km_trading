@@ -13,6 +13,8 @@
     - BINANCE_SECRET
     - DISCORD_WEBHOOK_URL
 
+- 포트포워딩을 통해 반드시 80번 포트에서 내가 지정한 포트인 8000번 포트를 열어주어야함.
+
 - 서버 실행
     ```
     python main.py
@@ -48,7 +50,7 @@
 
 - alert 만들기
     - 설정 -> 조건 -> '내 전략'
-    - 알림 -> 웹훅 URL 체크 -> 'http://내 ip/order'
+    - 알림 -> 웹훅 URL 체크 ->  http:// 내 ip/order
 
 ---
 
