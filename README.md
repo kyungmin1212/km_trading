@@ -54,6 +54,12 @@
 
 ---
 
+# Pine Scripts 정리
+
+- https://kyungmin961212.notion.site/Pine-Script-f8ebe8f5cda245c29bfb6c3b6c6d3c33
+
+---
+
 # 버전 정보
 ## v1.0 (2022-03-24)
 - 초기 버전 출시
